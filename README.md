@@ -1,15 +1,12 @@
-# Routing-React_JS
+# React + Vite
 
-routing project 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-this is static routing 
+Currently, two official plugins are available:
 
-![image](https://github.com/user-attachments/assets/c2da70d1-ecb5-4a3f-a5c5-095a4e1129c4)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-![image](https://github.com/user-attachments/assets/98a8924e-1d53-40d1-8237-290fb40c62aa)
+## Expanding the ESLint configuration
 
-![image](https://github.com/user-attachments/assets/5c92ead9-3646-4ac7-b952-3c7ac585e186)
-
-and now also user open own information and own path as like ./user/xyz
-
-![image](https://github.com/user-attachments/assets/8e02a725-9a22-4e95-9f3e-c03e704ad9d5)
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
